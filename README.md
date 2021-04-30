@@ -8,6 +8,7 @@ https://elmas3.github.io/mao-seminar/
 エルマス
 わかば
 コナン君
+博士
 
 # ディレクトリ構成
 ```
